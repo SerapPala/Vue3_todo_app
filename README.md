@@ -6,4 +6,4 @@
 - Remove Item
 - Alert 
 
-![github](todo.jpg)
+![github](todoapp.png)
