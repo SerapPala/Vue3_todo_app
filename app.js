@@ -2,13 +2,13 @@ const app = Vue.createApp({
     data() {
       return {
         todoList: [
-          { id: 1, text: "Yapılacak İş 1", completed: false },
-          { id: 2, text: "Yapılacak İş 2", completed: false },
-          { id: 3, text: "Yapılacak İş 3", completed: false },
-          { id: 4, text: "Yapılacak İş 4", completed: false },
-          { id: 5, text: "Yapılacak İş 5", completed: false },
-          { id: 6, text: "Yapılacak İş 6", completed: false },
-          { id: 7, text: "Yapılacak İş 7", completed: false },
+          { id: 1, text: "to do 1", completed: false },
+          { id: 2, text: "to do 2", completed: false },
+          { id: 3, text: "to do 3", completed: false },
+          { id: 4, text: "to do 4", completed: false },
+          { id: 5, text: "to do 5", completed: false },
+          { id: 6, text: "to do 6", completed: false },
+          { id: 7, text: "to do 7", completed: false },
         ],
       };
     },
